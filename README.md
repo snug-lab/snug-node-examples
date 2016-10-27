@@ -6,7 +6,7 @@ Create a base of examples showing how easy it is to get started with Node.js. We
 
 ### The Projects:
 
-* [hapi-basic-api](https://github.com/snug-lab/snug-node-examples/hapi-basic-api)
+* [hapi-basic-api](https://github.com/snug-lab/snug-node-examples/tree/master/hapi-basic-api)
 
 ### Usage:
 
