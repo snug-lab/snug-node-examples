@@ -13,7 +13,7 @@ Create a base of examples showing how easy it is to get started with Node.js. We
 Just clone the repository:
 
 ```bash
-$ git clone https://github.com/snug-lab/node-examples.git
+$ git clone https://github.com/snug-lab/snug-node-examples.git
 ```
 
 In each example directory, run:
