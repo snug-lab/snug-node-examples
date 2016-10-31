@@ -26,7 +26,7 @@ $ npm install
 Start the server by running the command:
 
 ```bash
-$ node server
+$ npm start
 ```
 
 For more updates visit [snug-lab.github.io](https://snug-lab.github.io). If you have questions, please open an issue in the [discussion forum](https://groups.google.com/d/forum/node-sorocaba).
