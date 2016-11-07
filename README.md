@@ -22,8 +22,6 @@ If you don't have Node.js yet:
 ```bash
 $ curl https://raw.githubusercontent.com/creationix/nvm/v0.16.1/install.sh | sh
 
-$ nvm ls-remote
-
 $ nvm install stable
 
 $ nvm use stable
