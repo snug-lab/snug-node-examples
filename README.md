@@ -17,6 +17,16 @@ Just clone the repository:
 $ git clone https://github.com/snug-lab/snug-node-examples.git
 ```
 
+If you don't have Node.js yet:
+
+```bash
+$ curl https://raw.githubusercontent.com/creationix/nvm/v0.16.1/install.sh | sh
+
+$ nvm install stable
+
+$ nvm use stable
+```
+
 In each example directory, run:
 
 ```bash
