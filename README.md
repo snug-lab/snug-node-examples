@@ -1,4 +1,4 @@
-# SNUG Node.js Examples [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/snug-lab/node-examples/issues)
+# SNUG Node.js Examples [![contributions welcome](http://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/snug-lab/node-examples/issues)
 
 ### The Goal:
 
