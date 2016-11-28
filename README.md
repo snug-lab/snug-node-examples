@@ -22,7 +22,7 @@ $ git clone https://github.com/snug-lab/snug-node-examples.git
 If you don't have Node.js yet:
 
 ```bash
-$ curl https://raw.githubusercontent.com/creationix/nvm/v0.16.1/install.sh | sh
+$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
 
 $ nvm install stable
 
