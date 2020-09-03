@@ -17,6 +17,6 @@
     "author": "Pablo Souza <pablodss@gmail.com>",
     "license": "MIT",
     "dependencies": {
-        "hapi": "^15.2.0"
+        "hapi": "^18.1.0"
     }
 }
